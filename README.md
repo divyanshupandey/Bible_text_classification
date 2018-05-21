@@ -29,7 +29,7 @@ TEXT CLASSIFICATION ON BIBLE DATA SET INTO OLD AND NEW TESTAMENT:
 	     1) Classification into old and new testament : Accuracy --> 74.42%
 	     2) The cosine distance between light and dark comes out to be 0.0026299357414245605
 
-4) Nouns_seggregation is the fourth folder that contains 1 python notebook.
+4) Nouns_seggregation is the fourth folder that contains 1 python notebook. Contains answer to the third question.
 
 	a) noun_seggregation.ipynb : Creates a data_with_noun.csv file in the bible_data_set folder with first 1000 sentences 
 				     and their respective nouns in the noun column. Due to processing time problem ,only 1000
