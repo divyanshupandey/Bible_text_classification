@@ -12,7 +12,7 @@ TEXT CLASSIFICATION ON BIBLE DATA SET INTO OLD AND NEW TESTAMENT:
 	     contains the answer to first two questions :
 
 	     1) Classification into old and new testament : Accuracy --> 78%
-	     2) The cosine distance between light and dark comes out to be 0.345624
+	     2) The cosine distance between light and dark comes out to be 0.3818393672899212
 
 	b) training_tfidf.ipynb : Trained on all samples using TFIDF Vectorization and SVM classification algorithm.
 
